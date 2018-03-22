@@ -1,5 +1,6 @@
 # CorpusKebudayaanBatak
 Corpus kebudayaan batak 
+Membahas tentang kebudayaan batak ulos, rumah adat dan makanan daerah.
 
 Dibangun menggunakan Java Spring Hibernate
 
